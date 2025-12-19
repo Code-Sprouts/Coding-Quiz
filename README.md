@@ -6,7 +6,7 @@
 
 </div>
 
-At [CodeSprout](https://daisyjayne01.wixsite.com/codesprouts/contact-8), we're passionate about nurturing young minds to become the tech leaders of tomorrow. Our platform is all about making coding and web development fun and accessible for young people, igniting their curiosity and creativity along the way.
+At [CodeSprout](https://daisyjayne01.wixsite.com/codesprouts), we're passionate about nurturing young minds to become the tech leaders of tomorrow. Our platform is all about making coding and web development fun and accessible for young people, igniting their curiosity and creativity along the way.
 
 ---
 <details>
