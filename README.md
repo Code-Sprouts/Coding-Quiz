@@ -9,36 +9,62 @@
 At [CodeSprout](https://daisyjayne01.wixsite.com/codesprouts/contact-8), we're passionate about nurturing young minds to become the tech leaders of tomorrow. Our platform is all about making coding and web development fun and accessible for young people, igniting their curiosity and creativity along the way.
 
 ---
-## What We Offer
-Our services provide personalised learning support, tailored to your needs. We offer flexible learning schedules and one-on-one tutoring sessions to help you achieve your goals.
+<details>
+<summary><strong>📘 Project Overview</strong></summary>
 
-<table>
-  <tr>
-    <th style="background-color:#2ecc71; color:black;">
-      🌱 Customized Learning Pathways
-    </th>
-    <th style="background-color:#2ecc71; color:black;">
-      🧰 All-In-One Solution
-    </th>
-    <th style="background-color:#2ecc71; color:black;">
-      💬 24/7 Customer Support
-    </th>
-    <th style="background-color:#2ecc71; color:black;">
-      🤖 Smart Learning Tools
-    </th>
-  </tr>
-  <tr>
-    <td style="background-color:#fff3cd; color:black;">
-      Our tutors will work with you to develop a customized learning pathway that suits your interests and goals. Whether you're interested in web development, app development, or game development, we've got you covered.
-    </td>
-    <td style="background-color:#fff3cd; color:black;">
-      Our all-in-one solution provides access to coding and web design tools including text editors, IDEs, and graphic design software — everything you need to build stunning websites and applications.
-    </td>
-    <td style="background-color:#fff3cd; color:black;">
-      We offer comprehensive support to ensure you get the most out of your learning experience. Whether you're stuck on code or design, our team is here to help.
-    </td>
-    <td style="background-color:#fff3cd; color:black;">
-      Our smart learning tools use machine learning and data analytics to personalize your learning journey and recommend improvements as you progress.
-    </td>
-  </tr>
-</table>
+This project is a mock educational technology company designed to support children, GCSE, and A-Level students studying Computing and Computer Science.
+
+The platform combines interactive learning through quizzes and games with structured course content and optional tutoring support. It is aimed at making technical concepts approachable, engaging, and curriculum-relevant.
+
+The project demonstrates frontend development, educational design, and structured content delivery within a realistic business context.
+
+</details>
+
+<details>
+<summary><strong>🎯 Target Audience</strong></summary>
+
+- Children and early learners interested in coding fundamentals  
+- GCSE Computing students  
+- A-Level Computer Science students
+
+</details>
+
+<details>
+<summary><strong>🧭 Project Scope</strong></summary>
+
+### Included in Scope
+- A complete company website with branding and navigation  
+- Interactive quizzes for Computer Science and development topics  
+- Educational games reinforcing programming concepts  
+- Subject pathways aligned with GCSE and A-Level curriculum courses  
+- Clear separation between learning levels (Beginner → Advanced)  
+
+### Out of Scope (for now)
+- Real payment processing  
+- Live tutoring sessions  
+- User accounts and authentication  
+- Real student data storage  
+
+
+</details>
+
+<details>
+<summary><strong>🛠️ Features & Functionality</strong></summary>
+
+- **Quizzes**
+  - Multiple choice and logic-based questions
+  - Instant feedback and explanations
+  - Topic-based progression
+
+- **Games**
+  - Similar to Blooket or Kahoot game modes but for coding
+
+- **Subjects Covered**
+  - [Follows BBC GCSE Computer Science pathway](https://www.bbc.co.uk/bitesize/examspecs/zkwsjhv)
+
+- **Educational Focus**
+  - Curriculum-aligned content
+  - Clear learning outcomes
+  - Child-friendly explanations
+
+</details>
