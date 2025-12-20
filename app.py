@@ -14,7 +14,14 @@ def create_app():
 
 app = create_app()
 
+# register routes
+from routes import code_sprout
+app.register_blueprint(code_sprout)
+
 # TEMPORARY: create tables
 with app.app_context():
     from models import Subject, Topic, Subtopic, Quiz, Question
     db.create_all()
+
+if __name__ == "__main__":
+    app.run(debug=True)
