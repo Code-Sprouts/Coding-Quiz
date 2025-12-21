@@ -56,6 +56,8 @@ The project demonstrates frontend development, educational design, and structure
   - Instant feedback and explanations
   - Topic-based progression
 
+> ![]Untitled(1).png(images/Untitled(1).png)
+
 - **Games**
   - Similar to Blooket or Kahoot game modes but for coding
 
