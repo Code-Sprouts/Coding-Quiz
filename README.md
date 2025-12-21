@@ -60,7 +60,7 @@ The project demonstrates frontend development, educational design, and structure
   - Similar to Blooket or Kahoot game modes but for coding
 
 - **Subjects Covered**
-  - [Follows BBC GCSE Computer Science pathway](https://www.bbc.co.uk/bitesize/examspecs/zkwsjhv)
+  - [Subjects written up here.](https://www.notion.so/2d0ce5ef1b2b80528e3ff58b70451fca?v=2d0ce5ef1b2b804c80ca000c979ac5cd)
 
 - **Educational Focus**
   - Curriculum-aligned content
